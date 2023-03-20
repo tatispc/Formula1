@@ -1,0 +1,101 @@
+[{
+  "_id": 1,
+  "Nombre": "Oracle Redbull Racing",
+  "Chasis": "RB19",
+  "Motor": "HondaRBPT",
+  "Pais": "Milton Keynes United Kingdom",
+  "Fecha Fundacion": "1997",
+  "Total Campeonatos": "82",
+  "Piloto1": "Max Verstappen",
+  "Piloto2": "Sergio Perez"
+},{
+  "_id": 2,
+  "Nombre": "Aston Martin Aramco",
+  "Chasis": "AMR23",
+  "Motor": "Mercedes",
+  "Pais": "Silverstone United Kingdom",
+  "Fecha Fundacion": "2018",
+  "Total Campeonatos": "1",
+  "Piloto1": "Fernando Alonso",
+  "Piloto2": "Lance Stroll"
+},{
+  "_id": 3,
+  "Nombre": "Mercedes-AMG",
+  "Chasis": "W14",
+  "Motor": "Mercedes",
+  "Pais": "Brackley United Kingdom",
+  "Fecha Fundacion": "1970",
+  "Total Campeonatos": "128",
+  "Piloto1": "Lewis Hamilton",
+  "Piloto2": "George Russell"
+},{
+  "_id": 4,
+  "Nombre": "Scuderia Ferrari",
+  "Chasis": "SF23",
+  "Motor": "Ferrari",
+  "Pais": "Maranello Italy",
+  "Fecha Fundacion": "1950",
+  "Total Campeonatos": "242",
+  "Piloto1": "Charles Leclerc",
+  "Piloto2": "Carlos Sainz"
+},{
+  "_id": 5,
+  "Nombre": "Alfa Romeo",
+  "Chasis": "C43",
+  "Motor": "Ferrari",
+  "Pais": "Hinwil Switzerland",
+  "Fecha Fundacion": "1993",
+  "Total Campeonatos": "1",
+  "Piloto1": "Valtteri Bottas",
+  "Piloto2": "Zhou Guanyu"
+},{
+  "_id": 6,
+  "Nombre": "BWT Alpine",
+  "Chasis": "A523",
+  "Motor": "Renault",
+  "Pais": "Enstone United Kingdom",
+  "Fecha Fundacion": "1986",
+  "Total Campeonatos": "20",
+  "Piloto1": "Pierre Gasly",
+  "Piloto2": "Esteban Ocon"
+},{
+  "_id": 7,
+  "Nombre": "Williams Racing",
+  "Chasis": "FW45",
+  "Motor": "Mercedes",
+  "Pais": "Grove United Kingdom",
+  "Fecha Fundacion": "1978",
+  "Total Campeonatos": "128",
+  "Piloto1": "Alexnder Albon",
+  "Piloto2": "Logan Sargeant"
+},{
+  "_id": 8,
+  "Nombre": "Scuderia AlphaTauri",
+  "Chasis": "AT04",
+  "Motor": "HondaRBPT",
+  "Pais": "Faenza Italy",
+  "Fecha Fundacion": "1985",
+  "Total Campeonatos": "1",
+  "Piloto1": "Yuki Tsunoda",
+  "Piloto2": "Nyck De Vries"
+},{
+  "_id": 9,
+  "Nombre": "MoneyGram Haas",
+  "Chasis": "VF23",
+  "Motor": "Ferrari",
+  "Pais": "Kannapolis United States",
+  "Fecha Fundacion": "2016",
+  "Total Campeonatos": "1",
+  "Piloto1": "Kevin Magnussen",
+  "Piloto2": "Nico Hulkenberg"
+},{
+  "_id": 10,
+  "Nombre": "McLaren",
+  "Chasis": "MC160",
+  "Motor": "Mercedes",
+  "Pais": "Woking United Kingdom",
+  "Fecha Fundacion": "1966",
+  "Total Campeonatos": "156",
+  "Piloto1": "Lando Norris",
+  "Piloto2": "Oscar Piastri"
+}]

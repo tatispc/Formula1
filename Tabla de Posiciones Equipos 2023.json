@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "64154c879afa19ae6b9e2d91"
+  },
+  "_pos": 1,
+  "Equipo": "Redbull Racing Honda RBPT",
+  "Puntos": "43"
+},{
+  "_id": {
+    "$oid": "64154cbf9afa19ae6b9e2d93"
+  },
+  "_pos": 2,
+  "Equipo": "Aston Martin Aramco Mercedes",
+  "Puntos": "23"
+},{
+  "_id": {
+    "$oid": "64154cf39afa19ae6b9e2d95"
+  },
+  "_pos": 3,
+  "Equipo": "Mercedes",
+  "Puntos": "16"
+},{
+  "_id": {
+    "$oid": "64154d159afa19ae6b9e2d97"
+  },
+  "_pos": 4,
+  "Equipo": "Ferrari",
+  "Puntos": "12"
+},{
+  "_id": {
+    "$oid": "64154d3e9afa19ae6b9e2d99"
+  },
+  "_pos": 5,
+  "Equipo": "Alfa Romeo Ferrari",
+  "Puntos": "4"
+},{
+  "_id": {
+    "$oid": "64154d7a9afa19ae6b9e2d9b"
+  },
+  "_pos": 6,
+  "Equipo": "Alpine Renault",
+  "Puntos": "2"
+},{
+  "_id": {
+    "$oid": "64154da49afa19ae6b9e2d9d"
+  },
+  "_pos": 7,
+  "Equipo": "Williams Mercedes",
+  "Puntos": "1"
+},{
+  "_id": {
+    "$oid": "64154dc29afa19ae6b9e2d9f"
+  },
+  "_pos": 8,
+  "Equipo": "AlphaTauri Honda RBPT",
+  "Puntos": "0"
+},{
+  "_id": {
+    "$oid": "64154deb9afa19ae6b9e2da1"
+  },
+  "_pos": 9,
+  "Equipo": "Haas Ferrari",
+  "Puntos": "0"
+},{
+  "_id": {
+    "$oid": "64154e0b9afa19ae6b9e2da3"
+  },
+  "_pos": 10,
+  "Equipo": "McLaren Mercedes",
+  "Puntos": "0"
+}]

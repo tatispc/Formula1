@@ -1,0 +1,553 @@
+[{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4f"
+  },
+  "Id_Ronda": 1,
+  "ciudad": "Barein",
+  "fecha_premio": "05/03",
+  "fecla_clasificación": "03/03",
+  "equipo_ganador": "red bull",
+  "piloto_ganador:": "max verstappen"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f50"
+  },
+  "Id_Ronda": 2,
+  "ciudad": "Arabia Saudita",
+  "fecha_premio": "19/03",
+  "fecha_clasificación": "17/03",
+  "equipo_ganador": "red bull",
+  "piloto_ganador": "sergio perez"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f51"
+  },
+  "Id_Ronda": 3,
+  "ciudad": "Australia",
+  "piloto_ganador": "",
+  "equipo_ganador": "",
+  "fecha_premio": "02/04",
+  "fecha_clasificación": "31/03"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f52"
+  },
+  "Id_Ronda": 4,
+  "ciudad": "Arzzerbaiyan",
+  "fecha_premio": "30/04",
+  "fecha_clasificación": "28/04",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f53"
+  },
+  "Id_Ronda": 5,
+  "ciudad": "Estados Unidos",
+  "fecha_premio": "7/05",
+  "fecha_clasificación": "05/05",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f54"
+  },
+  "Id_Ronda": 6,
+  "ciudad": "Italia",
+  "fecha_premio": "21/05",
+  "fecla_clasificación": "19/05",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f55"
+  },
+  "Id_Ronda": 7,
+  "ciudad": "Mónaco",
+  "fecha_clasificación": "26/05",
+  "fecha_premio": "28/05",
+  "piloto_ganador": "",
+  "equipo_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f56"
+  },
+  "Id_Ronda": 8,
+  "ciudad": "España",
+  "fecha_clasificación": "02/06",
+  "fecha_premio": "04/06",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f57"
+  },
+  "Id_Ronda": 9,
+  "ciudad": "Canadá",
+  "equipo_ganador": "",
+  "fecha_clasificación": "16/06",
+  "fecha_premio": "18/06",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f58"
+  },
+  "Id_Ronda": 10,
+  "ciudad": "Austria",
+  "fecha_premio": "02/07",
+  "fecha_clasificación": "30/06",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f59"
+  },
+  "Id_Ronda": 11,
+  "ciudad": "Gran Bretaña",
+  "equipo_ganador": "",
+  "fecha_clasificación": "07/07",
+  "fecha_premio": "09/07",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5a"
+  },
+  "Id_Ronda": 12,
+  "ciudad": "Hungría",
+  "fecha_clasificación": "21/07",
+  "fecha_premio": "23/07",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5b"
+  },
+  "Id_Ronda": 13,
+  "ciudad": "Bélgica",
+  "fecha_clasificación": "28/07",
+  "fecha_premio": "30/07",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5c"
+  },
+  "Id_Ronda": 14,
+  "ciudad": "Países Bajos",
+  "fecha_clasificación": "25/08",
+  "fecha_premio": "27/08",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5d"
+  },
+  "Id_Ronda": 15,
+  "ciudad": "Italia",
+  "equipo_ganador": "",
+  "fecha_clasificación": "01/09",
+  "fecha_premio": "03/09",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5e"
+  },
+  "Id_Ronda": 16,
+  "ciudad": "Singapur",
+  "fecha_clasificación": "15/09",
+  "fecha_premio": "17/09",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f5f"
+  },
+  "Id_Ronda": 17,
+  "ciudad": "Japón",
+  "fecha_clasificación": "22/09",
+  "fecha_premio": "24/09",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f60"
+  },
+  "Id_Ronda": 18,
+  "ciudad": "Katar",
+  "fecha_clasificación": "06/10",
+  "fecha_premio": "08/10",
+  "equipo_ganador": "",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f61"
+  },
+  "Id_Ronda": 19,
+  "ciudad": "Estados Unidos",
+  "equipo_ganador": "",
+  "fecha_clasificación": "20/10",
+  "fecha_premio": "22/10",
+  "piloto_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f62"
+  },
+  "Id_Ronda": 20,
+  "ciudad": "México",
+  "fecha_clasificación": "27/10",
+  "fecha_premio": "29/10",
+  "piloto_ganador": "",
+  "equipo_ganador": ""
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f63"
+  },
+  "Id_Ronda": 21,
+  "ciudad": "Brasil",
+  "fecha": "05/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f64"
+  },
+  "Id_Ronda": 22,
+  "ciudad": "Estados Unidos",
+  "fecha": "18/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f65"
+  },
+  "Id_Ronda": 23,
+  "ciudad": "Abu dhabi",
+  "fecha": "26/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f66"
+  },
+  "Id_Ronda": 1,
+  "ciudad": "Barein",
+  "fecha": "05/03"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f67"
+  },
+  "Id_Ronda": 2,
+  "ciudad": "Arabia Saudita",
+  "fecha": "19/03"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f68"
+  },
+  "Id_Ronda": 3,
+  "ciudad": "Australia",
+  "fecha": "02/04"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f69"
+  },
+  "Id_Ronda": 4,
+  "ciudad": "Arzzerbaiyan",
+  "fecha": "30/04"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6a"
+  },
+  "Id_Ronda": 5,
+  "ciudad": "Estados Unidos",
+  "fecha": "7/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6b"
+  },
+  "Id_Ronda": 6,
+  "ciudad": "Italia",
+  "fecha": "21/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6c"
+  },
+  "Id_Ronda": 7,
+  "ciudad": "Mónaco",
+  "fecha": "28/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6d"
+  },
+  "Id_Ronda": 8,
+  "ciudad": "España",
+  "fecha": "04/06"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6e"
+  },
+  "Id_Ronda": 9,
+  "ciudad": "Canadá",
+  "fecha": "18/06"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f6f"
+  },
+  "Id_Ronda": 10,
+  "ciudad": "Austria",
+  "fecha": "02/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f70"
+  },
+  "Id_Ronda": 11,
+  "ciudad": "Gran Bretaña",
+  "fecha": "09/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f71"
+  },
+  "Id_Ronda": 12,
+  "ciudad": "Hungría",
+  "fecha": "23/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f72"
+  },
+  "Id_Ronda": 13,
+  "ciudad": "Bélgica",
+  "fecha": "30/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f73"
+  },
+  "Id_Ronda": 14,
+  "ciudad": "Países Bajos",
+  "fecha": "27/08"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f74"
+  },
+  "Id_Ronda": 15,
+  "ciudad": "Italia",
+  "fecha": "03/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f75"
+  },
+  "Id_Ronda": 16,
+  "ciudad": "Singapur",
+  "fecha": "17/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f76"
+  },
+  "Id_Ronda": 17,
+  "ciudad": "Japón",
+  "fecha": "24/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f77"
+  },
+  "Id_Ronda": 18,
+  "ciudad": "Katar",
+  "fecha": "08/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f78"
+  },
+  "Id_Ronda": 19,
+  "ciudad": "Estados Unidos",
+  "fecha": "22/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f79"
+  },
+  "Id_Ronda": 20,
+  "ciudad": "México",
+  "fecha": "29/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f7a"
+  },
+  "Id_Ronda": 21,
+  "ciudad": "Brasil",
+  "fecha": "05/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f7b"
+  },
+  "Id_Ronda": 22,
+  "ciudad": "Estados Unidos",
+  "fecha": "18/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f7c"
+  },
+  "Id_Ronda": 23,
+  "ciudad": "Abu dhabi",
+  "fecha": "26/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f38"
+  },
+  "Id_Ronda": 1,
+  "ciudad": "Barein",
+  "fecha": "05/03"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f39"
+  },
+  "Id_Ronda": 2,
+  "ciudad": "Arabia Saudita",
+  "fecha": "19/03"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3a"
+  },
+  "Id_Ronda": 3,
+  "ciudad": "Australia",
+  "fecha": "02/04"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3b"
+  },
+  "Id_Ronda": 4,
+  "ciudad": "Arzzerbaiyan",
+  "fecha": "30/04"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3c"
+  },
+  "Id_Ronda": 5,
+  "ciudad": "Estados Unidos",
+  "fecha": "7/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3d"
+  },
+  "Id_Ronda": 6,
+  "ciudad": "Italia",
+  "fecha": "21/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3e"
+  },
+  "Id_Ronda": 7,
+  "ciudad": "Mónaco",
+  "fecha": "28/05"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f3f"
+  },
+  "Id_Ronda": 8,
+  "ciudad": "España",
+  "fecha": "04/06"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f40"
+  },
+  "Id_Ronda": 9,
+  "ciudad": "Canadá",
+  "fecha": "18/06"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f41"
+  },
+  "Id_Ronda": 10,
+  "ciudad": "Austria",
+  "fecha": "02/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f42"
+  },
+  "Id_Ronda": 11,
+  "ciudad": "Gran Bretaña",
+  "fecha": "09/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f43"
+  },
+  "Id_Ronda": 12,
+  "ciudad": "Hungría",
+  "fecha": "23/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f44"
+  },
+  "Id_Ronda": 13,
+  "ciudad": "Bélgica",
+  "fecha": "30/07"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f45"
+  },
+  "Id_Ronda": 14,
+  "ciudad": "Países Bajos",
+  "fecha": "27/08"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f46"
+  },
+  "Id_Ronda": 15,
+  "ciudad": "Italia",
+  "fecha": "03/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f47"
+  },
+  "Id_Ronda": 16,
+  "ciudad": "Singapur",
+  "fecha": "17/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f48"
+  },
+  "Id_Ronda": 17,
+  "ciudad": "Japón",
+  "fecha": "24/09"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f49"
+  },
+  "Id_Ronda": 18,
+  "ciudad": "Katar",
+  "fecha": "08/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4a"
+  },
+  "Id_Ronda": 19,
+  "ciudad": "Estados Unidos",
+  "fecha": "22/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4b"
+  },
+  "Id_Ronda": 20,
+  "ciudad": "México",
+  "fecha": "29/10"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4c"
+  },
+  "Id_Ronda": 21,
+  "ciudad": "Brasil",
+  "fecha": "05/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4d"
+  },
+  "Id_Ronda": 22,
+  "ciudad": "Estados Unidos",
+  "fecha": "18/11"
+},{
+  "_id": {
+    "$oid": "6415ce10d1326d83a2373f4e"
+  },
+  "Id_Ronda": 23,
+  "ciudad": "Abu dhabi",
+  "fecha": "26/11"
+},{
+  "_id": {
+    "$oid": "6418617266c1ecbc691af7c3"
+  },
+  "Id_Ronda": 1,
+  "ciudad": "Barein",
+  "fecha_premio": "05/03",
+  "fecla_clasificación": "03/03",
+  "piloto_ganador": "max varstappen"
+}]

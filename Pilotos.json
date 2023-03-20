@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be548fb"
+  },
+  "Nombre": "Lewis Hamilton",
+  "Número": "44",
+  "Nacionalidad": "United Kingdom",
+  "TotalPuntos": "4415.5",
+  "Podios": "191",
+  "TotalCampeonatos": "7",
+  "AñoNacimiento": "07/01/1985",
+  "Equipo": "Mercedes"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be548fc"
+  },
+  "Nombre": "Max Verstappen",
+  "Número": "1",
+  "Nacionalidad": "Netherlands",
+  "TotalPuntos": "2036.5",
+  "Podios": "78",
+  "TotalCampeonatos": "2",
+  "AñoNacimiento": "30/09/1997",
+  "Equipo": "Red Bull Racing"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be548fd"
+  },
+  "Nombre": "Sergio Perez",
+  "Número": "11",
+  "Nacionalidad": "Mexico",
+  "TotalPuntos": "1219",
+  "Podios": "27",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "26/01/1990",
+  "Equipo": "Red Bull Racing"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be548fe"
+  },
+  "Nombre": "Fernando Alonso",
+  "Número": "14",
+  "Nacionalidad": "Spain",
+  "TotalPuntos": "2076",
+  "Podios": "99",
+  "TotalCampeonatos": "2",
+  "AñoNacimiento": "29/07/1981",
+  "Equipo": "Aston Martin"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be548ff"
+  },
+  "Nombre": "Carlos Sainz",
+  "Número": "55",
+  "Nacionalidad": "Spain",
+  "TotalPuntos": "794.5",
+  "Podios": "15",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "01/09/1994",
+  "Equipo": "Ferrari"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54900"
+  },
+  "Nombre": "Lance Stroll",
+  "Número": "18",
+  "Nacionalidad": "Canada",
+  "TotalPuntos": "202",
+  "Podios": "3",
+  "TotalCampeonatos": ".",
+  "AñoNacimiento": "29/10/1998",
+  "Equipo": "Aston Martin"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54901"
+  },
+  "Nombre": "George Russell",
+  "Número": "63",
+  "Nacionalidad": "United Kingdom",
+  "TotalPuntos": "300",
+  "Podios": "9",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "15/02/1998",
+  "Equipo": "Mercedes"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54902"
+  },
+  "Nombre": "Valtteri Bottas",
+  "Número": "77",
+  "Nacionalidad": "Finland",
+  "TotalPuntos": "1791",
+  "Podios": "67",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "28/08/1989",
+  "Equipo": "Alfa Romeo"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54903"
+  },
+  "Nombre": "Pierre Gasly",
+  "Número": "10",
+  "Nacionalidad": "France",
+  "TotalPuntos": "334",
+  "Podios": "3",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "07/02/1996",
+  "Equipo": "Alpine"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54904"
+  },
+  "Nombre": "Alexander Albon",
+  "Número": "23",
+  "Nacionalidad": "Thailand",
+  "TotalPuntos": "202",
+  "Podios": "2",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "23/03/1996",
+  "Equipo": "Williams"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54905"
+  },
+  "Nombre": "Yuki Tsunoda",
+  "Número": "22",
+  "Nacionalidad": "Japan",
+  "TotalPuntos": "44",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "11/05/2000",
+  "Equipo": "AlphaTauri"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54906"
+  },
+  "Nombre": "Logan Sargeant",
+  "Número": "2",
+  "Nacionalidad": "United States",
+  "TotalPuntos": "0",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "31/12/2001",
+  "Equipo": "Williams"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54907"
+  },
+  "Nombre": "Kevin Magnussen",
+  "Número": "20",
+  "Nacionalidad": "Denmark",
+  "TotalPuntos": "183",
+  "Podios": "1",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "05/10/1992",
+  "Equipo": "Haas F1 Team"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54908"
+  },
+  "Nombre": "Nyck De Vries",
+  "Número": "21",
+  "Nacionalidad": "Netherlands",
+  "TotalPuntos": "2",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "06/02/1995",
+  "Equipo": "AlphaTauri"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be54909"
+  },
+  "Nombre": "Nico Hulkenberg",
+  "Número": "27",
+  "Nacionalidad": "Germany",
+  "TotalPuntos": "521",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "19/08/1987",
+  "Equipo": "Haas F1 Team"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be5490a"
+  },
+  "Nombre": "Zhou Guanyu",
+  "Número": "24",
+  "Nacionalidad": "China",
+  "TotalPuntos": "6",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "30/05/1999",
+  "Equipo": "Alfa Romeo"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be5490b"
+  },
+  "Nombre": "Lando Norris",
+  "Número": "4",
+  "Nacionalidad": "United Kingdom",
+  "TotalPuntos": "428",
+  "Podios": "6",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "13/11/1999",
+  "Equipo": "McLaren"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be5490c"
+  },
+  "Nombre": "Charles Leclerc",
+  "Número": "16",
+  "Nacionalidad": "Monaco",
+  "TotalPuntos": "868",
+  "Podios": "24",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "16/10/1997",
+  "Equipo": "Ferrari"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be5490d"
+  },
+  "Nombre": "Esteban Ocon",
+  "Número": "31",
+  "Nacionalidad": "France",
+  "TotalPuntos": "364",
+  "Podios": "2",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "17/09/1996",
+  "Equipo": "Alpine"
+},{
+  "_id": {
+    "$oid": "6414fd9c74bd14e63be5490e"
+  },
+  "Nombre": "Oscar Piastri",
+  "Número": "81",
+  "Nacionalidad": "Australia",
+  "TotalPuntos": "0",
+  "Podios": "0",
+  "TotalCampeonatos": "0",
+  "AñoNacimiento": "06/04/2001",
+  "Equipo": "McLaren"
+}]

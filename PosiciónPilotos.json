@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "6415d1b1d1326d83a2373f7f"
+  },
+  "equipo": "Red bull",
+  "nacionalidad": "Holanda",
+  "puntos": 44,
+  "Posición": 1,
+  "piloto": "max verstappen"
+},{
+  "_id": {
+    "$oid": "64186e0266c1ecbc691af7c5"
+  },
+  "equipo": "Red bull",
+  "nacionalidad": "México",
+  "puntos": 43,
+  "Posición": 2,
+  "piloto": "sergio perez"
+},{
+  "_id": {
+    "$oid": "6418708e66c1ecbc691af7c8"
+  },
+  "equipo": "Aston Martin",
+  "nacionalidad": "España",
+  "puntos": 30,
+  "Posición": 3,
+  "piloto": "fernando alonso"
+},{
+  "_id": {
+    "$oid": "641870cd66c1ecbc691af7c9"
+  },
+  "equipo": "Merceedes",
+  "nacionalidad": "Gran Bretaña",
+  "puntos": 20,
+  "Posición": 4,
+  "piloto": "lewis hamilton"
+},{
+  "_id": {
+    "$oid": "6418711466c1ecbc691af7ca"
+  },
+  "equipo": "Ferrari",
+  "nacionalidad": "España",
+  "puntos": 20,
+  "Posición": 5,
+  "piloto": "carlos sainz"
+},{
+  "_id": {
+    "$oid": "6418713766c1ecbc691af7cb"
+  },
+  "equipo": "Mercedes",
+  "nacionalidad": "Gran Bretaña",
+  "puntos": 18,
+  "Posición": 6,
+  "piloto": "george russell"
+},{
+  "_id": {
+    "$oid": "6418716366c1ecbc691af7cc"
+  },
+  "equipo": "Aston Martin",
+  "nacionalidad": "Canada",
+  "puntos": 8,
+  "Posición": 7,
+  "piloto": "lance stroll"
+},{
+  "_id": {
+    "$oid": "6418719066c1ecbc691af7cd"
+  },
+  "equipo": "Ferrari",
+  "nacionalidad": "Gran Bretaña",
+  "puntos": 6,
+  "Posición": 8,
+  "piloto": "charles leclerc"
+},{
+  "_id": {
+    "$oid": "641871d666c1ecbc691af7ce"
+  },
+  "equipo": "Alfa Romeo Ferrari",
+  "nacionalidad": "Finlandia",
+  "puntos": 4,
+  "Posición": 9,
+  "piloto": "valtteri bottas"
+},{
+  "_id": {
+    "$oid": "6418722966c1ecbc691af7cf"
+  },
+  "equipo": "Renault Alpino",
+  "nacionalidad": "Francia",
+  "puntos": 4,
+  "Posición": 10,
+  "piloto": "pierre gasly"
+},{
+  "_id": {
+    "$oid": "6418724366c1ecbc691af7d0"
+  },
+  "equipo": "Renault Alpino",
+  "nacionalidad": "Francia",
+  "puntos": 4,
+  "Posición": 11,
+  "piloto": "esteban ocon"
+},{
+  "_id": {
+    "$oid": "641872bb66c1ecbc691af7d1"
+  },
+  "equipo": "Ferrari Haas",
+  "nacionalidad": "Dinamarca",
+  "puntos": 1,
+  "Posición": 12,
+  "piloto": "kevin magnussen"
+},{
+  "_id": {
+    "$oid": "641872e766c1ecbc691af7d2"
+  },
+  "equipo": "Williams Mercedes",
+  "nacionalidad": "Thailandia",
+  "puntos": 1,
+  "Posición": 13,
+  "piloto": "alexander albon"
+},{
+  "_id": {
+    "$oid": "6418732a66c1ecbc691af7d3"
+  },
+  "equipo": "Ferrari Haas",
+  "nacionalidad": "Alemania",
+  "puntos": 0,
+  "Posición": 14,
+  "piloto": "nico hulkenberg"
+},{
+  "_id": {
+    "$oid": "6418735a66c1ecbc691af7d4"
+  },
+  "equipo": "Alphatauri",
+  "nacionalidad": "Holanda",
+  "puntos": 0,
+  "Posición": 15,
+  "piloto": "nyck de vries"
+},{
+  "_id": {
+    "$oid": "6418738c66c1ecbc691af7d5"
+  },
+  "equipo": "Williams Mercedes ",
+  "nacionalidad": "Estados Unidos",
+  "puntos": 0,
+  "Posición": 16,
+  "piloto": "logan sargeant"
+},{
+  "_id": {
+    "$oid": "641873ce66c1ecbc691af7d6"
+  },
+  "equipo": "Alfa Romero Ferrari",
+  "nacionalidad": "China",
+  "puntos": 0,
+  "Posición": 17,
+  "piloto": "guanyu zhon"
+},{
+  "_id": {
+    "$oid": "6418740666c1ecbc691af7d7"
+  },
+  "equipo": "Alphatauri Honda",
+  "nacionalidad": "Japon",
+  "puntos": 0,
+  "Posición": 18,
+  "piloto": "yuki tsunoda"
+},{
+  "_id": {
+    "$oid": "6418744266c1ecbc691af7d8"
+  },
+  "equipo": "Mclaren Mercedes",
+  "nacionalidad": "Australia",
+  "puntos": 0,
+  "Posición": 19,
+  "piloto": "oscar piastri"
+},{
+  "_id": {
+    "$oid": "6418745e66c1ecbc691af7d9"
+  },
+  "equipo": "Mclaren Mercedes",
+  "nacionalidad": "Gran Bretaña",
+  "puntos": 0,
+  "Posición": 20,
+  "piloto": "lando norris"
+}]
